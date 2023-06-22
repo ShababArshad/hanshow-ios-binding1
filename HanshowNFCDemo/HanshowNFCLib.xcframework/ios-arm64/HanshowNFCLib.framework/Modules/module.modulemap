@@ -1,0 +1,6 @@
+framework module HanshowNFCLib {
+  umbrella header "HanshowNFCLib.h"
+
+  export *
+  module * { export * }
+}
